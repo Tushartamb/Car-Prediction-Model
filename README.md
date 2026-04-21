@@ -83,15 +83,6 @@ Why Random Forest?</b>
 
 ---</b>
 
-## ⚠️ Future Improvements</b>
-
-* Try **XGBoost / Gradient Boosting**</b>
-* Perform **hyperparameter tuning**</b>
-* Use **feature selection techniques**</b>
-* Deploy model using **Flask or Streamlit**</b>
-
----</b>
-
 ## 📌 Conclusion</b>
 
 This project demonstrates a complete **Machine Learning pipeline**:</b>
